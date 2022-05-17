@@ -29,7 +29,7 @@ public class stringSort
        System.out.println("____....After sorting....____");
        for(int i=0;i<4;i++)
        {
-					System.out.println(arr[i]);
+	System.out.println(arr[i]);
        }
     } 
 }
